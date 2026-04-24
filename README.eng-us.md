@@ -25,10 +25,10 @@ This project was developed to practice Bash scripting by automating file organiz
 ## How to Use
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone <repo-url>
    cd <repo-name>
-   ```
+```
 2. Make the script executable
  ```bash
  chmod +x script.sh
@@ -37,16 +37,16 @@ This project was developed to practice Bash scripting by automating file organiz
   ```bash
   ./script.sh
   ```
-## Example Output
   
+## Example Output
   ```bash
   json: 1
 log: 1
 txt: 3
 sem_extensao: 1
 Total: 6
-  
   ```
+  
 ## Project Structure (Optional Suggestion)
 
 ├── script.sh
@@ -60,3 +60,8 @@ Total: 6
 -Basic logging and automation practices
 -Handling edge cases (files without extension)
 
+## Notes
+
+- This is a learning project focused on the fundamentals of Bash.
+- The goal was to build something functional, not optimized.
+- The repository reflects my learning process and progress.
