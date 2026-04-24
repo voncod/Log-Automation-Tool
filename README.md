@@ -33,13 +33,13 @@ Este projeto foi desenvolvido para praticar Shell Scripting em Bash, automatizan
 
 ``bash
 
-chmod +x script.sh
+  chmod +x script.sh
 
 ```
 3. Execute o script:
 ```bash
 
-./script.sh
+  ./script.sh
 
 ```
 ## Exemplo de Saída
