@@ -25,27 +25,25 @@ Este projeto foi desenvolvido para praticar Shell Scripting em Bash, automatizan
 ## Como Usar
 
 1. Clone o repositório:
-   ```bash
+```bash
    git clone <url-do-repositorio>
    cd <nome-do-repositorio>
 ```
+
 2. Torne o script executável
 
-``bash
-
-  chmod +x script.sh
-
+```bash
+chmod +x script.sh
 ```
+
 3. Execute o script:
 ```bash
-
-  ./script.sh
-
+./script.sh
 ```
+
 ## Exemplo de Saída
 
 ```bash
-
 json: 1
 log: 1
 txt: 3
